@@ -14,7 +14,7 @@
   ],
   "functions": {
     "api/index.py": {
-      "handler": "lambda_handler",
+      "handler": "app",
       "runtime": "python3.9",
       "maxDuration": 30
     }
