@@ -11,12 +11,5 @@
       "src": "/(.*)",
       "dest": "/api/index.py"
     }
-  ],
-  "functions": {
-    "api/index.py": {
-      "handler": "app",
-      "runtime": "python3.9",
-      "maxDuration": 30
-    }
-  }
+  ]
 }
